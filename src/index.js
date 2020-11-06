@@ -6,11 +6,9 @@ import ReactDOM from 'react-dom';
 
 // Create a react component
 const App = () => {
-    const x = 5;
+    
 return (
-    <div>
-        
-    </div>
+    <div>Test Project</div>
 );
 };
 
